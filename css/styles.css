@@ -1,0 +1,35 @@
+body {
+  background: #999;
+  font-family: sans-serif;
+}
+
+h1 {
+  color: #125;
+}
+
+h2 {
+  text-decoration: underline;
+  color: #133;
+}
+
+img {
+  border: 2px solid #000;
+}
+
+p {
+  background: #888;
+  padding: 30px;
+  max-width: 50%;
+}
+
+li {
+  line-height: 1.5em;
+}
+
+a {
+  color: #245;
+}
+
+a:hover {
+  color: #373;
+}
