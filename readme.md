@@ -14,7 +14,7 @@ A brief website telling a bit about Jeff Seymour.
 None.
 
 ###Link to Site on GitHub Pages
-( insert link here )
+[Visit the GitHub Pages site](http://jeffsdev.github.io/codereview1/)
 
-###Copyright and Lisence Information
+###Copyright and License Information
 N/A
